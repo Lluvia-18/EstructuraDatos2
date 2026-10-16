@@ -1,6 +1,8 @@
 package listas.simples;
-//Autor: Lluvia Villanueva 
-//Fecha:15 de octubre de 2026
+
+//elemento nodo de una lista
+//@author: Lluvia Villanueva 
+//@date:15 de octubre de 2026
 
 
 public class Nodo {
@@ -37,3 +39,4 @@ public class Nodo {
         this.sig = sig;
     }
 }
+
